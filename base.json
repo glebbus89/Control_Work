@@ -1,0 +1,7 @@
+{
+"type":"Cat",
+"id":"1",
+"name":"Push",
+"birthday":"23.01.2023",
+"commands":"[walk]"
+}
